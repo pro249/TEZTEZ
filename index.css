@@ -301,7 +301,7 @@ nav p{
     #git{
         width: 645px;
     }
-    #survey{
+   /* #survey{
         font-size: 25px;
         background-color: rgba(0,0,0, 0.4);
         display: grid;
@@ -314,7 +314,7 @@ nav p{
         gap: 25px;
         color: white;
         margin-top: 100px;
-    }
+    }  */
     body{
         font-size: 15px;
     }
